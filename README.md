@@ -39,4 +39,7 @@ Unless you understand exactly what you are doing, close this window and stay saf
 3. Script Injector, a script from another website that was injected into the your Discord client.
 4. And more...
 
+### Resources
 
+- [A List Of Discord Scam Links](https://github.com/BuildBot42/discord-scam-links) - not all of them.
+- [Discord's Report Form](https://dis.gd/request)
