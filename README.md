@@ -1,4 +1,4 @@
-# Discord-Scam-Documentation
+# Discord-Scam-Article
 A Documentation About How Discord Scam Works.
 
 ### Before Getting Started...
