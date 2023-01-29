@@ -6,7 +6,7 @@ Here's some tips to prevent you from getting scammed on Discord.
 
 1. Do not click on any links sent by anyone (in a server or dm), including your friend (in some cases). 
 2. Turn off your dm ( settings > privacy & safety > disable direct messages from server members ).
-3. Use some service like [CraftyLinks/DiscordUser](https://links.is-a.dev/user/) or bots to check the user's account creation date/name/avatar, see if its sketchy.
+3. Check the user's account creation date, name & avatar, see if its sketchy.
 4. Read the message carefully, check grammar/spelling mistakes. 
 5. In conclusion, don't click on any links.
 
