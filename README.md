@@ -18,7 +18,7 @@ Here's some tips to prevent you from getting scammed on Discord.
 5. Seen many times.
 6. Sent from a friend.
 
-> If its a free nitro, you'll be able to claim it straight away with the `accept` button.
+> If its a nitro link, you'll be able to claim it straight away with the `accept` button.
 
 ### What will happen if someone's account was scammed/hacked ?
 > Hmm, you might notice that I'm using the word **hack**, but actually its phishing and they're similar in one way but different in another ( for this scam, its still the same ).
