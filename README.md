@@ -21,7 +21,7 @@ Here's some tips to prevent you from getting scammed on Discord.
 > If its a nitro link, you'll be able to claim it straight away with the `accept` button.
 
 ### What will happen if someone's account was scammed/hacked ?
-> Hmm, you might notice that I'm using the word **hack**, but actually its phishing and they're similar in one way but different in another ( for this scam, its still the same ).
+> Hmm, you might notice that I'm using the word **hack**, but its actually phishing and they're similar in one way but different in another ( for this scam, its still the same ).
 
 So, if someone's account got scammed, more users will get their account scammed ( by that account ), they might leak their banking information, if they had to the scammer as well. Like, think of someone having full access to your account ( your server, your friends, people you know ).
 
